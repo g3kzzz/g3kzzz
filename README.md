@@ -50,7 +50,7 @@
 <h2 align="left">Environment 🖥️</h2>
 
 <div align="center">
-  <img src="img.png" alt="Pinned repos screenshot" width="800"/>
+  <img src="img28.png" alt="Pinned repos screenshot" width="800"/>
 </div>
 
 
