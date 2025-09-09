@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/fabian-g-huamani/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://discordapp.com/users/tu-id">
+  <a href="https://discordapp.com/users/952261440394375198">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
   <a href="https://app.hackthebox.com/profile/#2426983">
