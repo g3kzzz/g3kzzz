@@ -6,9 +6,6 @@
   <a href="https://discordapp.com/users/tu-id">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="mailto:tu-correo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
   <a href="https://app.hackthebox.com/profile/#2426983">
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9FEF00&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="hackthebox logo" />
   </a>
