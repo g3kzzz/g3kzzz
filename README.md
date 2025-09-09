@@ -9,9 +9,6 @@
 </h1>
 
 
-###
-<h2 align="center">📌 Pinned Repositories</h2>
-
 <div align="center">
 
   <!-- Primera fila -->
