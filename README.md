@@ -49,7 +49,9 @@
 <h2 align="left">Environment 🖥️</h2>
 
 <div align="center">
+  <img src="img.jpeg" alt="Pinned repos screenshot" width="800"/>
 </div>
+
 
 
 ###
