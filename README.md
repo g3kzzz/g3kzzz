@@ -35,11 +35,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="60" alt="assembly logo"  />
 </div>
 
 ###
 
 <h2 align="left">Environment 🖥️</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/blackarchlinux/222222" height="60" alt="blackarch logo"  />
+</div>
 
 ###
 
@@ -58,6 +66,7 @@
 
 ###
 
+<!-- Si no quieres el PACMAN, simplemente borra este bloque -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g3kzzz/g3kzzz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g3kzzz/g3kzzz/output/pacman-contribution-graph.svg">
@@ -65,3 +74,4 @@
 </picture>
 
 ###
+
