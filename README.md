@@ -11,10 +11,11 @@
 
 ###
 <div align="center">
-  <a href="https://github.com/g3kzzz/nombre-repo">
+  <a href="https://github.com/g3kzzz/dotfiles">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=nombre-repo&theme=dracula&hide_border=false" />
   </a>
 </div>
+
 <h2 align="left">Languages 🛠️</h2>
 
 <div align="center">
