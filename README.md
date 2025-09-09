@@ -24,7 +24,6 @@
 <h2 align="left">Environment 🖥️</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/g3kzzz/assets/main/blackarch.png" height="60" alt="blackarch logo" />
   <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="60" alt="arch linux logo" />
 </div>
 
