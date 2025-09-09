@@ -47,4 +47,7 @@
 
 <h2 align="left">Activity 🎯</h2>
 
+![snake gif](https://github.com/g3kzzz/g3kzzz/blob/output/github-snake-dark.svg)
+
+
 ![Snake animation](https://raw.githubusercontent.com/g3kzzz/g3kzzz/output/github-contribution-grid-snake-dark.svg)
