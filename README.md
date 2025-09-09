@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
-  <img src="https://skillicons.dev/icons?i=assembly" height="60" alt="assembly logo" />
+  <img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="60" alt="assembly logo"  />
 </div>
 
 ###
