@@ -10,11 +10,33 @@
 
 
 ###
+<h2 align="center">📌 Pinned Repositories</h2>
+
 <div align="center">
-  <a href="https://github.com/g3kzzz/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=nombre-repo&theme=dracula&hide_border=false" />
+
+  <!-- Primera fila -->
+  <a href="https://github.com/g3kzzz/IDoraptor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=IDoraptor&theme=dracula&hide_border=false" />
   </a>
+  <a href="https://github.com/g3kzzz/dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=dotfiles&theme=dracula&hide_border=false" />
+  </a>
+
+  <!-- Segunda fila -->
+  <a href="https://github.com/g3kzzz/archTools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=archTools&theme=dracula&hide_border=false" />
+  </a>
+  <a href="https://github.com/g3kzzz/g3web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=g3web&theme=dracula&hide_border=false" />
+  </a>
+
+  <!-- Tercera fila -->
+  <a href="https://github.com/g3kzzz/tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=tools&theme=dracula&hide_border=false" />
+  </a>
+
 </div>
+
 
 <h2 align="left">Languages 🛠️</h2>
 
