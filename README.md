@@ -35,20 +35,20 @@
 </div>
 
 
-<h2 align="left">Languages 🛠️</h2>
+<h2 align="left">Languages and Tools🛠️</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
   <img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="48" alt="assembly logo" />
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="60" alt="arch linux logo" />
 </div>
 
 ###
 <h2 align="left">Environment 🖥️</h2>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="60" alt="arch linux logo" />
 </div>
 
 
