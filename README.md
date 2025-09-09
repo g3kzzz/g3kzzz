@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -30,13 +32,10 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="60" alt="assembly logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
+  <img src="https://skillicons.dev/icons?i=assembly" height="60" alt="assembly logo" />
 </div>
 
 ###
@@ -46,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/blackarchlinux/222222" height="60" alt="blackarch logo"  />
+  <img src="https://raw.githubusercontent.com/g3kzzz/assets/main/blackarch.png" height="60" alt="blackarch logo" />
 </div>
 
 ###
@@ -66,7 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/g3kzzz/g3kzzz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/g3kzzz/g3kzzz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
-
