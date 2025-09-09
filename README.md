@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
   <img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="48" alt="assembly logo" />
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="60" alt="arch linux logo" />
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="48" alt="arch linux logo" />
 </div>
 
 ###
