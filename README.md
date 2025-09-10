@@ -21,7 +21,7 @@
   </a>
 
   <!-- Segunda fila -->
-  <a href="https://github.com/g3kzzz/archTools">
+  <a href="https://github.com/g3kzzz/g3kzzz.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=g3kzzz.github.io&theme=dracula&hide_border=false" />
   </a>
 
