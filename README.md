@@ -22,15 +22,7 @@
 
   <!-- Segunda fila -->
   <a href="https://github.com/g3kzzz/archTools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=archTools&theme=dracula&hide_border=false" />
-  </a>
-  <a href="https://github.com/g3kzzz/g3web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=g3web&theme=dracula&hide_border=false" />
-  </a>
-
-  <!-- Tercera fila -->
-  <a href="https://github.com/g3kzzz/tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=tools&theme=dracula&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=g3kzzz&repo=g3kzzz.github.io&theme=dracula&hide_border=false" />
   </a>
 
 </div>
